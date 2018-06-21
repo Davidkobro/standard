@@ -10,6 +10,8 @@ See also: https://github.com/ethereum/EIPs/issues/948
 * Travis Mathis
 * Rober Jorden
 * Piotr Kosiński - ChronoLogic (Ethereum Alarm Clock)
+* John Griffin
+* David Kobrosky - Turing 
 * TODO- please add your name here
 
 # Design Goals 
